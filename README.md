@@ -1,5 +1,4 @@
-I'm Daniel, a Brazilian developer passionate about learning new things every day.
-I currently work as **React Native Developer** at [RaiaDrogasil Group](https://www.rd.com.br/), the largest drugstore company in Latin America, and a graduate student in Software Engineering at [PUC-SP](https://www.pucsp.br/home).
+
 
 ### Technologies
 
